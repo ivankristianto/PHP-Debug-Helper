@@ -1,6 +1,7 @@
 {
     "name": "ivankristianto/debug",
-    "type": "helper",
+    "type": "library",
+    "version": "1.0.0",
     "description": "Debug Helper",
     "keywords": ["debugging","helper"],
     "homepage": "http://github.com/ivankristianto/debug",
